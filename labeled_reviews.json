@@ -1,0 +1,1350 @@
+[
+{
+  "Review": "The quesadillas are are also delicious too especially when it comes piping hot and the tortilla is lightly pan fried.",
+  "id": 15,
+  "label": [
+    {
+      "start": 87,
+      "end": 95,
+      "text": "tortilla",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 4,
+      "end": 15,
+      "text": "quesadillas",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 14,
+  "created_at": "2026-11-19T19:06:30.441140Z",
+  "updated_at": "2026-11-19T19:06:30.441163Z",
+  "lead_time": 363.731
+},
+{
+  "Review": "I love this seafood place it honestly was amazing I loved the food it was very delicious, a little messy but they give you gloves on the table, with some nutcrackers and crab forks.",
+  "id": 16,
+  "label": [
+    {
+      "start": 62,
+      "end": 66,
+      "text": "food",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 15,
+  "created_at": "2026-11-19T19:07:08.795627Z",
+  "updated_at": "2026-11-19T21:21:41.878126Z",
+  "lead_time": 472.06
+},
+{
+  "Review": "The atmosphere inside was perfect for a date night - gently lit and very romantic.",
+  "id": 17,
+  "label": [
+    {
+      "start": 4,
+      "end": 14,
+      "text": "atmosphere",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 16,
+  "created_at": "2026-11-19T19:07:16.303893Z",
+  "updated_at": "2026-11-19T19:07:16.303913Z",
+  "lead_time": 52.426
+},
+{
+  "Review": "The pasta were all fresh and delicious.",
+  "id": 18,
+  "label": [
+    {
+      "start": 4,
+      "end": 9,
+      "text": "pasta",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 17,
+  "created_at": "2026-11-19T19:07:24.303547Z",
+  "updated_at": "2026-11-19T19:07:24.303569Z",
+  "lead_time": 161.792
+},
+{
+  "Review": "Nice and cozy with friendly service.",
+  "id": 19,
+  "label": [
+    {
+      "start": 28,
+      "end": 35,
+      "text": "service",
+      "labels": [
+        "Service-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 18,
+  "created_at": "2026-11-19T19:07:29.743348Z",
+  "updated_at": "2026-11-19T19:07:29.743370Z",
+  "lead_time": 92.565
+},
+{
+  "Review": "The interior was quite elegant (inside the Double Tree Hotel), service was very attentive, and every single dish was delicious.",
+  "id": 20,
+  "label": [
+    {
+      "start": 63,
+      "end": 70,
+      "text": "service",
+      "labels": [
+        "Service-Pos"
+      ]
+    },
+    {
+      "start": 108,
+      "end": 112,
+      "text": "dish",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 4,
+      "end": 12,
+      "text": "interior",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 19,
+  "created_at": "2026-11-19T19:07:48.290963Z",
+  "updated_at": "2026-11-19T19:07:48.290987Z",
+  "lead_time": 102.81
+},
+{
+  "Review": "My favourite red pizza is the L'Amentea, the soppressata adds a nice savoury flavour and a slight kick.",
+  "id": 21,
+  "label": [
+    {
+      "start": 17,
+      "end": 22,
+      "text": "pizza",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 45,
+      "end": 56,
+      "text": "soppressata",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 20,
+  "created_at": "2026-11-19T19:07:52.239703Z",
+  "updated_at": "2026-11-19T19:07:52.239726Z",
+  "lead_time": 52.292
+},
+{
+  "Review": "This place is an unassuming friendly little joint that doesn't pretend to be pretentious.",
+  "id": 22,
+  "label": [
+    {
+      "start": 5,
+      "end": 10,
+      "text": "place",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    },
+    {
+      "start": 44,
+      "end": 49,
+      "text": "joint",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 21,
+  "created_at": "2026-11-19T19:07:57.774833Z",
+  "updated_at": "2026-11-19T21:34:20.400111Z",
+  "lead_time": 61.497
+},
+{
+  "Review": "Good take-out place with well-priced specials each day for the price of $4.99 before tax.",
+  "id": 23,
+  "label": [
+    {
+      "start": 37,
+      "end": 45,
+      "text": "specials",
+      "labels": [
+        "Price-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 22,
+  "created_at": "2026-11-19T19:08:05.951495Z",
+  "updated_at": "2026-11-19T21:24:01.118240Z",
+  "lead_time": 69.31
+},
+{
+  "Review": "Fusaro's Kitchen offers great food at reasonable prices.",
+  "id": 24,
+  "label": [
+    {
+      "start": 49,
+      "end": 55,
+      "text": "prices",
+      "labels": [
+        "Price-Pos"
+      ]
+    },
+    {
+      "start": 30,
+      "end": 34,
+      "text": "food",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 23,
+  "created_at": "2026-11-19T19:08:12.142196Z",
+  "updated_at": "2026-11-19T21:24:45.914965Z",
+  "lead_time": 76.619
+},
+{
+  "Review": "Drinks were so so good, I got the dragon fruit and watermelon cocktail and it tasted like juice but I could taste just the subtle flavour of hard liquor.",
+  "id": 25,
+  "label": [
+    {
+      "start": 0,
+      "end": 6,
+      "text": "Drinks",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 24,
+  "created_at": "2026-11-19T19:08:17.011240Z",
+  "updated_at": "2026-11-19T19:08:17.011253Z",
+  "lead_time": 16.582
+},
+{
+  "Review": "Service was average and it was a bit pricy for the overall experience.",
+  "id": 26,
+  "label": [
+    {
+      "start": 0,
+      "end": 7,
+      "text": "Service",
+      "labels": [
+        "Service-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 25,
+  "created_at": "2026-11-19T19:08:24.814895Z",
+  "updated_at": "2026-11-19T21:25:54.963740Z",
+  "lead_time": 86.96100000000001
+},
+{
+  "Review": "I loved this salad a lot!",
+  "id": 27,
+  "label": [
+    {
+      "start": 13,
+      "end": 18,
+      "text": "salad",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 26,
+  "created_at": "2026-11-19T19:08:34.467515Z",
+  "updated_at": "2026-11-19T19:08:34.467532Z",
+  "lead_time": 15.503
+},
+{
+  "Review": "Both were really nice and fresh and quality is no question.",
+  "id": 28,
+  "label": [
+    {
+      "start": 36,
+      "end": 43,
+      "text": "quality",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 27,
+  "created_at": "2026-11-19T19:08:46.652990Z",
+  "updated_at": "2026-11-19T21:26:20.104415Z",
+  "lead_time": 81.49099999999999
+},
+{
+  "Review": "Decor: the restaurant is pretty nice renovated and clean.",
+  "id": 29,
+  "label": [
+    {
+      "start": 11,
+      "end": 21,
+      "text": "restaurant",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 28,
+  "created_at": "2026-11-19T19:08:57.036057Z",
+  "updated_at": "2026-11-19T19:08:57.036076Z",
+  "lead_time": 33.466
+},
+{
+  "Review": "The staff was nice, food came out promptly, and the shop was clean.",
+  "id": 30,
+  "label": [
+    {
+      "start": 4,
+      "end": 9,
+      "text": "staff",
+      "labels": [
+        "Service-Pos"
+      ]
+    },
+    {
+      "start": 52,
+      "end": 56,
+      "text": "shop",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 29,
+  "created_at": "2026-11-19T19:09:06.544167Z",
+  "updated_at": "2026-11-19T21:26:47.570212Z",
+  "lead_time": 55.711
+},
+{
+  "Review": "The tacos aren't cheap at $5 each tax included but the prices aren't crazy either, let's be honest, eating out in Toronto isn't cheap anymore.",
+  "id": 31,
+  "label": [
+    {
+      "start": 55,
+      "end": 61,
+      "text": "prices",
+      "labels": [
+        "Price-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 30,
+  "created_at": "2026-11-19T19:09:11.223213Z",
+  "updated_at": "2026-11-19T21:28:56.386328Z",
+  "lead_time": 179.141
+},
+{
+  "Review": "Bread was warm which was nice and the atmosphere of both the outside downstairs\/upstairs patios and the interior was nice.",
+  "id": 32,
+  "label": [
+    {
+      "start": 0,
+      "end": 5,
+      "text": "Bread",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 38,
+      "end": 48,
+      "text": "atmosphere",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    },
+    {
+      "start": 104,
+      "end": 112,
+      "text": "interior",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    },
+    {
+      "start": 89,
+      "end": 95,
+      "text": "patios",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 31,
+  "created_at": "2026-11-19T19:09:15.589686Z",
+  "updated_at": "2026-11-19T19:09:15.589703Z",
+  "lead_time": 40.991
+},
+{
+  "Review": "Delicious dish - the assorted seafood includes shrimps, scallops, calamari, with assorted vegetables (broccoli, carrot, snap peas, shiitake mushrooms).",
+  "id": 33,
+  "label": [
+    {
+      "start": 10,
+      "end": 14,
+      "text": "dish",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 21,
+      "end": 37,
+      "text": "assorted seafood",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 32,
+  "created_at": "2026-11-19T19:09:20.579805Z",
+  "updated_at": "2026-11-19T19:09:20.579838Z",
+  "lead_time": 22.859
+},
+{
+  "Review": "For the main, I got the reginelle pappardelle (slow cooked oxtail ragu, pangratto, parsley and parmigiano reggiano).",
+  "id": 34,
+  "annotator": 1,
+  "annotation_id": 33,
+  "created_at": "2026-11-19T19:09:28.017635Z",
+  "updated_at": "2026-11-19T19:09:28.017653Z",
+  "lead_time": 6.255
+},
+{
+  "Review": "They have multiple seating options which is amazing.",
+  "id": 35,
+  "label": [
+    {
+      "start": 19,
+      "end": 34,
+      "text": "seating options",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 34,
+  "created_at": "2026-11-19T19:09:33.008871Z",
+  "updated_at": "2026-11-19T21:29:32.908277Z",
+  "lead_time": 1369.143
+},
+{
+  "Review": "Family run joint service up awesome bowls of noodle soup and other dishes.",
+  "id": 36,
+  "label": [
+    {
+      "start": 45,
+      "end": 56,
+      "text": "noodle soup",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 35,
+  "created_at": "2026-11-19T19:09:54.126256Z",
+  "updated_at": "2026-11-19T21:29:56.747031Z",
+  "lead_time": 68.769
+},
+{
+  "Review": "The long line ups here are worth the wait!",
+  "id": 37,
+  "annotator": 1,
+  "annotation_id": 36,
+  "created_at": "2026-11-19T19:10:00.540717Z",
+  "updated_at": "2026-11-19T19:10:00.540737Z",
+  "lead_time": 5.124
+},
+{
+  "Review": "Lobster was good, I'm sure, but the sauce was too overwhelming to get the taste of lobster.",
+  "id": 38,
+  "label": [
+    {
+      "start": 0,
+      "end": 7,
+      "text": "Lobster",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 36,
+      "end": 41,
+      "text": "sauce",
+      "labels": [
+        "Food-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 37,
+  "created_at": "2026-11-19T19:10:06.938782Z",
+  "updated_at": "2026-11-19T19:10:06.938804Z",
+  "lead_time": 25.099
+},
+{
+  "Review": "Overall, the food and service were very nice, I was very satisfied!",
+  "id": 39,
+  "label": [
+    {
+      "start": 13,
+      "end": 17,
+      "text": "food",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 29,
+      "text": "service",
+      "labels": [
+        "Service-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 38,
+  "created_at": "2026-11-19T19:10:11.791889Z",
+  "updated_at": "2026-11-19T19:10:11.791912Z",
+  "lead_time": 21.865000000000002
+},
+{
+  "Review": "The restaurant has it all together, you will find that menu items are made fresh to order so expect wait times to be longer but well worth the delay.",
+  "id": 40,
+  "label": [
+    {
+      "start": 55,
+      "end": 65,
+      "text": "menu items",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 100,
+      "end": 110,
+      "text": "wait times",
+      "labels": [
+        "Service-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 39,
+  "created_at": "2026-11-19T19:10:18.688360Z",
+  "updated_at": "2026-11-19T19:10:18.688387Z",
+  "lead_time": 62.499
+},
+{
+  "Review": "I love the way the manager treat his customers.",
+  "id": 41,
+  "label": [
+    {
+      "start": 19,
+      "end": 26,
+      "text": "manager",
+      "labels": [
+        "Service-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 40,
+  "created_at": "2026-11-19T19:12:46.937536Z",
+  "updated_at": "2026-11-19T19:12:46.937555Z",
+  "lead_time": 166.43200000000002
+},
+{
+  "Review": "Server was nice but visited our table very rarely.",
+  "id": 42,
+  "label": [
+    {
+      "start": 0,
+      "end": 6,
+      "text": "Server",
+      "labels": [
+        "Service-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 41,
+  "created_at": "2026-11-19T19:13:19.288750Z",
+  "updated_at": "2026-11-19T21:30:39.401538Z",
+  "lead_time": 79.306
+},
+{
+  "Review": "In general, the food quality was good but missed the wow factor.",
+  "id": 43,
+  "label": [
+    {
+      "start": 16,
+      "end": 20,
+      "text": "food",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 42,
+  "created_at": "2026-11-19T19:13:37.143339Z",
+  "updated_at": "2026-11-19T19:13:37.143352Z",
+  "lead_time": 26.314
+},
+{
+  "Review": "What I love is that the price point is excellent.",
+  "id": 44,
+  "label": [
+    {
+      "start": 24,
+      "end": 35,
+      "text": "price point",
+      "labels": [
+        "Price-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 43,
+  "created_at": "2026-11-19T19:13:49.699471Z",
+  "updated_at": "2026-11-19T19:13:49.699498Z",
+  "lead_time": 19.948999999999998
+},
+{
+  "Review": "The service was inattentive at best, water was never refilled, waiters were wandering around aimlessly with salsas and dishes, not knowing where they were going.",
+  "id": 45,
+  "label": [
+    {
+      "start": 4,
+      "end": 11,
+      "text": "service",
+      "labels": [
+        "Service-Neg"
+      ]
+    },
+    {
+      "start": 63,
+      "end": 70,
+      "text": "waiters",
+      "labels": [
+        "Service-Neg"
+      ]
+    },
+    {
+      "start": 37,
+      "end": 42,
+      "text": "water",
+      "labels": [
+        "Service-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 44,
+  "created_at": "2026-11-19T19:14:11.382665Z",
+  "updated_at": "2026-11-19T19:14:11.382684Z",
+  "lead_time": 53.56400000000001
+},
+{
+  "Review": "Of course not, and in this case it's a reasonable trade off to keep the line moving.",
+  "id": 46,
+  "annotator": 1,
+  "annotation_id": 45,
+  "created_at": "2026-11-19T19:14:21.272643Z",
+  "updated_at": "2026-11-19T19:14:21.272663Z",
+  "lead_time": 0.989
+},
+{
+  "Review": "Good vibe, the staff is friendly, good vegetarian options and traditional tacos and other dishes.",
+  "id": 47,
+  "label": [
+    {
+      "start": 5,
+      "end": 9,
+      "text": "vibe",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    },
+    {
+      "start": 15,
+      "end": 20,
+      "text": "staff",
+      "labels": [
+        "Service-Pos"
+      ]
+    },
+    {
+      "start": 74,
+      "end": 79,
+      "text": "tacos",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 90,
+      "end": 96,
+      "text": "dishes",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 39,
+      "end": 57,
+      "text": "vegetarian options",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 46,
+  "created_at": "2026-11-19T19:14:44.843646Z",
+  "updated_at": "2026-11-19T21:31:31.950902Z",
+  "lead_time": 55.456
+},
+{
+  "Review": "Both the clamps, bone marrow, and stock were delicious and rich in flavour.",
+  "id": 48,
+  "label": [
+    {
+      "start": 9,
+      "end": 15,
+      "text": "clamps",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 17,
+      "end": 28,
+      "text": "bone marrow",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 34,
+      "end": 39,
+      "text": "stock",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 67,
+      "end": 74,
+      "text": "flavour",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 47,
+  "created_at": "2026-11-19T19:14:46.709533Z",
+  "updated_at": "2026-11-19T21:35:45.440616Z",
+  "lead_time": 36.032
+},
+{
+  "Review": "Service: My experinces, despite my lack of Chinese, has been very friendly with the workers.",
+  "id": 49,
+  "label": [
+    {
+      "start": 84,
+      "end": 91,
+      "text": "workers",
+      "labels": [
+        "Service-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 48,
+  "created_at": "2026-11-19T19:14:49.959855Z",
+  "updated_at": "2026-11-19T21:32:01.030125Z",
+  "lead_time": 52.221000000000004
+},
+{
+  "Review": "For entrees, most of us ordered the signature pasta dish: truffle funghi, which was creamy, indulgent, and perfect for carb-lovers.",
+  "id": 50,
+  "label": [
+    {
+      "start": 4,
+      "end": 11,
+      "text": "entrees",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 46,
+      "end": 56,
+      "text": "pasta dish",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 58,
+      "end": 72,
+      "text": "truffle funghi",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 49,
+  "created_at": "2026-11-19T19:15:37.921869Z",
+  "updated_at": "2026-11-19T19:15:37.921890Z",
+  "lead_time": 60.141
+},
+{
+  "Review": "First off, the ambience was AMAZING!",
+  "id": 51,
+  "label": [
+    {
+      "start": 15,
+      "end": 23,
+      "text": "ambience",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 50,
+  "created_at": "2026-11-19T19:15:42.811887Z",
+  "updated_at": "2026-11-19T19:15:42.811902Z",
+  "lead_time": 10.626
+},
+{
+  "Review": "The noodle soup are filling in my opinion and definitely worth its value (under $5 without tax!).",
+  "id": 52,
+  "label": [
+    {
+      "start": 4,
+      "end": 15,
+      "text": "noodle soup",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 67,
+      "end": 72,
+      "text": "value",
+      "labels": [
+        "Price-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 51,
+  "created_at": "2026-11-19T19:15:49.796036Z",
+  "updated_at": "2026-11-19T19:15:49.796060Z",
+  "lead_time": 27.93
+},
+{
+  "Review": "The ambience is also nice and not too loud.",
+  "id": 53,
+  "label": [
+    {
+      "start": 4,
+      "end": 12,
+      "text": "ambience",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 52,
+  "created_at": "2026-11-19T19:15:53.448834Z",
+  "updated_at": "2026-11-19T19:15:53.448854Z",
+  "lead_time": 10.249
+},
+{
+  "Review": "The ambience is pretty nice and the staff was very friendly and welcoming.",
+  "id": 54,
+  "label": [
+    {
+      "start": 4,
+      "end": 12,
+      "text": "ambience",
+      "labels": [
+        "Ambience-Pos"
+      ]
+    },
+    {
+      "start": 36,
+      "end": 41,
+      "text": "staff",
+      "labels": [
+        "Service-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 53,
+  "created_at": "2026-11-19T19:15:57.426969Z",
+  "updated_at": "2026-11-19T19:15:57.426989Z",
+  "lead_time": 16.802
+},
+{
+  "Review": "Our server was honestly so helpful and offered up some great suggestions.",
+  "id": 55,
+  "label": [
+    {
+      "start": 4,
+      "end": 10,
+      "text": "server",
+      "labels": [
+        "Service-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 54,
+  "created_at": "2026-11-19T19:16:06.072707Z",
+  "updated_at": "2026-11-19T19:16:06.072726Z",
+  "lead_time": 17.057
+},
+{
+  "Review": "The drinks are all around $15... a little pricey but expected.",
+  "id": 56,
+  "label": [
+    {
+      "start": 4,
+      "end": 10,
+      "text": "drinks",
+      "labels": [
+        "Price-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 55,
+  "created_at": "2026-11-19T19:16:12.939016Z",
+  "updated_at": "2026-11-19T19:16:12.939038Z",
+  "lead_time": 17.495
+},
+{
+  "Review": "My favourite restaurant in the Beach, and some of the best Mexican food in the city.",
+  "id": 57,
+  "label": [
+    {
+      "start": 67,
+      "end": 71,
+      "text": "food",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 56,
+  "created_at": "2026-11-19T19:16:19.122438Z",
+  "updated_at": "2026-11-19T19:16:19.122453Z",
+  "lead_time": 27.409
+},
+{
+  "Review": "Lovely server was very attentive (possibly the owner's daughter?).",
+  "id": 58,
+  "label": [
+    {
+      "start": 7,
+      "end": 13,
+      "text": "server",
+      "labels": [
+        "Service-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 57,
+  "created_at": "2026-11-19T19:16:23.580521Z",
+  "updated_at": "2026-11-19T19:16:23.580545Z",
+  "lead_time": 9.931999999999999
+},
+{
+  "Review": "The dumpling (4pcs for $2.99) was crispy and delicious.",
+  "id": 59,
+  "label": [
+    {
+      "start": 4,
+      "end": 12,
+      "text": "dumpling",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 58,
+  "created_at": "2026-11-19T19:16:29.171683Z",
+  "updated_at": "2026-11-19T19:16:29.171697Z",
+  "lead_time": 37.943
+},
+{
+  "Review": "Customer service here is also 5-star, so your entire dining experience will be great.",
+  "id": 60,
+  "label": [
+    {
+      "start": 0,
+      "end": 16,
+      "text": "Customer service",
+      "labels": [
+        "Service-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 59,
+  "created_at": "2026-11-19T19:16:49.447375Z",
+  "updated_at": "2026-11-19T21:53:26.679433Z",
+  "lead_time": 37.236
+},
+{
+  "Review": "Worth a try but I won't be a regular!",
+  "id": 61,
+  "annotator": 1,
+  "annotation_id": 60,
+  "created_at": "2026-11-19T19:16:52.542755Z",
+  "updated_at": "2026-11-19T19:16:52.542772Z",
+  "lead_time": 1.799
+},
+{
+  "Review": "As Buca's menu has many tasty options and each dish has Italian names and it can be a bit tricky to navigate.",
+  "id": 63,
+  "label": [
+    {
+      "start": 30,
+      "end": 37,
+      "text": "options",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 61,
+  "created_at": "2026-11-19T19:16:59.437509Z",
+  "updated_at": "2026-11-19T21:51:24.655682Z",
+  "lead_time": 69.601
+},
+{
+  "Review": "You also get complementary nachos and salsa which was a nice touch before the main food.",
+  "id": 64,
+  "label": [
+    {
+      "start": 27,
+      "end": 33,
+      "text": "nachos",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 38,
+      "end": 43,
+      "text": "salsa",
+      "labels": [
+        "Food-Pos"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 62,
+  "created_at": "2026-11-19T19:17:04.831097Z",
+  "updated_at": "2026-11-19T21:53:47.690883Z",
+  "lead_time": 41.752
+},
+{
+  "Review": "The rice was bland with zero seasoning.",
+  "id": 11311,
+  "label": [
+    {
+      "start": 4,
+      "end": 8,
+      "text": "rice",
+      "labels": [
+        "Food-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 63,
+  "created_at": "2026-11-19T21:46:08.656336Z",
+  "updated_at": "2026-11-19T21:46:08.656352Z",
+  "lead_time": 16.059
+},
+{
+  "Review": "The grilled chicken was dry too.",
+  "id": 11312,
+  "label": [
+    {
+      "start": 4,
+      "end": 19,
+      "text": "grilled chicken",
+      "labels": [
+        "Food-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 64,
+  "created_at": "2026-11-19T21:46:37.505841Z",
+  "updated_at": "2026-11-19T21:46:37.505866Z",
+  "lead_time": 27.358
+},
+{
+  "Review": "Overall, it's not worth the price.",
+  "id": 11313,
+  "label": [
+    {
+      "start": 28,
+      "end": 33,
+      "text": "price",
+      "labels": [
+        "Price-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 65,
+  "created_at": "2026-11-19T21:46:48.944993Z",
+  "updated_at": "2026-11-19T21:46:48.945012Z",
+  "lead_time": 9.376
+},
+{
+  "Review": "The quality of the food is definitely not worth the price.",
+  "id": 11314,
+  "label": [
+    {
+      "start": 4,
+      "end": 11,
+      "text": "quality",
+      "labels": [
+        "Food-Neg"
+      ]
+    },
+    {
+      "start": 19,
+      "end": 23,
+      "text": "food",
+      "labels": [
+        "Food-Neg"
+      ]
+    },
+    {
+      "start": 52,
+      "end": 57,
+      "text": "price",
+      "labels": [
+        "Price-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 66,
+  "created_at": "2026-11-19T21:47:23.281563Z",
+  "updated_at": "2026-11-19T21:47:23.281585Z",
+  "lead_time": 16.27
+},
+{
+  "Review": "The dishes are a bit pricey for about $9.50 a dish which makes it even harder to say it's worth it.",
+  "id": 11315,
+  "label": [
+    {
+      "start": 4,
+      "end": 10,
+      "text": "dishes",
+      "labels": [
+        "Price-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 67,
+  "created_at": "2026-11-19T21:47:44.865208Z",
+  "updated_at": "2026-11-19T21:47:44.865230Z",
+  "lead_time": 20.301
+},
+{
+  "Review": "The decor is straight out of the 70s and to be honest looks a little dingy.",
+  "id": 11316,
+  "label": [
+    {
+      "start": 4,
+      "end": 9,
+      "text": "decor",
+      "labels": [
+        "Ambience-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 68,
+  "created_at": "2026-11-19T21:47:54.112896Z",
+  "updated_at": "2026-11-19T21:47:54.112920Z",
+  "lead_time": 8.051
+},
+{
+  "Review": "The restaurant is small and cramped.",
+  "id": 11317,
+  "label": [
+    {
+      "start": 4,
+      "end": 14,
+      "text": "restaurant",
+      "labels": [
+        "Ambience-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 69,
+  "created_at": "2026-11-19T21:48:01.805445Z",
+  "updated_at": "2026-11-19T21:48:01.805461Z",
+  "lead_time": 6.138
+},
+{
+  "Review": "It was as noisy as a sports bar and not a good place for chatting.",
+  "id": 11318,
+  "label": [
+    {
+      "start": 47,
+      "end": 52,
+      "text": "place",
+      "labels": [
+        "Ambience-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 70,
+  "created_at": "2026-11-19T21:48:20.901837Z",
+  "updated_at": "2026-11-19T21:51:52.650552Z",
+  "lead_time": 24.738
+},
+{
+  "Review": "It's almost as if they didn't have any other space for it, as there were 10 or so dirty glasses in plain site.",
+  "id": 11319,
+  "label": [
+    {
+      "start": 88,
+      "end": 95,
+      "text": "glasses",
+      "labels": [
+        "Ambience-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 71,
+  "created_at": "2026-11-19T21:49:04.726030Z",
+  "updated_at": "2026-11-19T21:49:04.726054Z",
+  "lead_time": 41.648
+},
+{
+  "Review": "Food was great service was slow.",
+  "id": 11320,
+  "label": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "Food",
+      "labels": [
+        "Food-Pos"
+      ]
+    },
+    {
+      "start": 15,
+      "end": 22,
+      "text": "service",
+      "labels": [
+        "Service-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 72,
+  "created_at": "2026-11-19T21:49:18.580773Z",
+  "updated_at": "2026-11-19T21:49:18.580791Z",
+  "lead_time": 11.793
+},
+{
+  "Review": "But the service was a little slow: we had to ask twice for some tea, twice for the bill, and never got the sauce we asked for.",
+  "id": 11321,
+  "label": [
+    {
+      "start": 8,
+      "end": 15,
+      "text": "service",
+      "labels": [
+        "Service-Neg"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 73,
+  "created_at": "2026-11-19T21:49:32.629538Z",
+  "updated_at": "2026-11-19T21:49:32.629556Z",
+  "lead_time": 12.382
+}
+]
